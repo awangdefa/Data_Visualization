@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-from matplotlib.random_walk import RandomWalk
+from matplotlibbb.random_walk import RandomWalk
 
 while True:
     rw = RandomWalk(50000)
