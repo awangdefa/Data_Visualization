@@ -1,5 +1,4 @@
 import json
-
 import pygal_maps_world.maps
 
 from country_codes import get_country_code

@@ -1,5 +1,6 @@
 import pygal_maps_world.maps
 
+
 wm = pygal_maps_world.maps.World()
 wm.title = 'North, Central, and South America'
 
